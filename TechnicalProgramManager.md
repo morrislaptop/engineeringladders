@@ -18,11 +18,11 @@ Role responsible for coordinating and driving to completion initiatives that spa
   <img alt="Technical Program Manager 4" src="/charts/technicalprogrammanager-4.png">
 </picture>
 
-* **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
-* **Designs**: designs and implements medium to large size features while reducing the system's tech debt
-* **Coordinates**: coordinates team members providing effective feedback and moderating discussions
-* **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-* **Multiple Teams**: makes an impact not only on the whole team but also on other teams
+* **Tech / Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
+* **System / Designs**: designs and implements medium to large size features while reducing the system's tech debt
+* **People / Coordinates**: coordinates team members providing effective feedback and moderating discussions
+* **Process / Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
+* **Influence / Multiple Teams**: makes an impact not only on the whole team but also on other teams
 
 ## TPM5 - Technical Program Manager 5
 
@@ -32,11 +32,11 @@ Role responsible for coordinating and driving to completion initiatives that spa
   <img alt="Technical Program Manager 5" src="/charts/technicalprogrammanager-5.png">
 </picture>
 
-* **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
-* **Designs**: designs and implements medium to large size features while reducing the system's tech debt
-* **Coordinates**: coordinates team members providing effective feedback and moderating discussions
-* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
-* **Multiple Teams**: makes an impact not only on the whole team but also on other teams
+* **Tech / Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
+* **System / Designs**: designs and implements medium to large size features while reducing the system's tech debt
+* **People / Coordinates**: coordinates team members providing effective feedback and moderating discussions
+* **Process / Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
+* **Influence / Multiple Teams**: makes an impact not only on the whole team but also on other teams
 
 ## TPM6 - Technical Program Manager 6
 
@@ -46,11 +46,11 @@ Role responsible for coordinating and driving to completion initiatives that spa
   <img alt="Technical Program Manager 6" src="/charts/technicalprogrammanager-6.png">
 </picture>
 
-* **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
-* **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
-* **Manages**: manages the team members' career, expectations, performance and level of happiness
-* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
-* **Company**: makes an impact on the whole tech organization
+* **Tech / Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
+* **System / Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
+* **People / Manages**: manages the team members' career, expectations, performance and level of happiness
+* **Process / Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
+* **Influence / Company**: makes an impact on the whole tech organization
 
 ## TPM7 - Technical Program Manager 7
 
@@ -60,11 +60,11 @@ Role responsible for coordinating and driving to completion initiatives that spa
   <img alt="Technical Program Manager 7" src="/charts/technicalprogrammanager-7.png">
 </picture>
 
-* **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
-* **Evolves**: evolves the architecture to support future requirements and defines its SLAs
-* **Manages**: manages the team members' career, expectations, performance and level of happiness
-* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
-* **Community**: makes an impact on the tech community
+* **Tech / Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
+* **System / Evolves**: evolves the architecture to support future requirements and defines its SLAs
+* **People / Manages**: manages the team members' career, expectations, performance and level of happiness
+* **Process / Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
+* **Influence / Community**: makes an impact on the tech community
 
 # Other Pages
 
